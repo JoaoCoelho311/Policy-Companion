@@ -1,1 +1,21 @@
-
+{
+  "policies": [
+    {
+      "name": "Video Policy",
+      "alerts": [
+        "Calibration Update",
+        "Escalation Guidance"
+      ],
+      "calibrations": [
+        "October Calibration",
+        "November Calibration"
+      ],
+      "kbLinks": [
+        "Main Policy",
+        "Escalation Guidance",
+        "Examples Library"
+      ],
+      "notes": []
+    }
+  ]
+}
