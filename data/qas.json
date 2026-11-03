@@ -1,1 +1,11 @@
-
+{
+  "qas": [
+    {
+      "name": "Example QA",
+      "email": "example@company.com",
+      "teams": [
+        "Video Policy"
+      ]
+    }
+  ]
+}
