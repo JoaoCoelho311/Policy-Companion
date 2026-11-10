@@ -1,6 +1,8 @@
 🧠 Policy Companion
 Operational Intelligence Workspace
 
+------------------------------------
+
 ¨Unified Knowledge. Smarter Operations¨
 
 🎯 Vision
@@ -8,6 +10,8 @@ Operational Intelligence Workspace
 Policy Companion is a centralized operational workspace designed to help reviewers, QA specialists and operational teams quickly access policies, calibrations, alerts, knowledge resources and QA contacts from a single location.
 
 Goal: Reduce search time, improve review quality and simplify operational workflows.
+
+--------------------------------------
 
 🚀 Core Features: 
 
