@@ -55,12 +55,16 @@ Knowledge Capture
 🌌 Final Layout Vision
 Microsoft Fabric × Microsoft Copilot × Azure Portal
 
+-----------------------------------------
+
 Modern dashboard experience focused on:
 
 Fast Navigation
 Centralized Knowledge
 Operational Productivity
 AI-Ready Architecture
+
+----------------------------------------
 
 🗺️ Roadmap
 Version 1.0 - Knowledge Hub
