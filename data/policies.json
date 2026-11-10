@@ -4,6 +4,7 @@
       "name": "Adult",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -12,6 +13,7 @@
       "name": "Child Safety",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -20,6 +22,7 @@
       "name": "Circumvention",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -28,6 +31,7 @@
       "name": "Content Misinformation",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -36,6 +40,7 @@
       "name": "General Misinformation",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -44,6 +49,7 @@
       "name": "Graphic Violence",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -52,6 +58,7 @@
       "name": "Harassment",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -60,6 +67,7 @@
       "name": "Harmful and Dangerous",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -68,6 +76,7 @@
       "name": "Hate Speech",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
@@ -76,6 +85,7 @@
       "name": "Spam",
       "alerts": [],
       "calibrations": [],
+      "urgentGuidance": [],
       "qaContacts": [],
       "kbLink": "",
       "notes": []
