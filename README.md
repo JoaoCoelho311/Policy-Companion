@@ -67,7 +67,6 @@ Operational Productivity
 
 AI-Ready Architecture
 
-
 ----------------------------------------
 
 🗺️ Roadmap
