@@ -60,9 +60,13 @@ Microsoft Fabric × Microsoft Copilot × Azure Portal
 Modern dashboard experience focused on:
 
 Fast Navigation
+
 Centralized Knowledge
+
 Operational Productivity
+
 AI-Ready Architecture
+
 
 ----------------------------------------
 
