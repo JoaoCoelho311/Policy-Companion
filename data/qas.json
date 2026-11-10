@@ -1,11 +1,19 @@
 {
-  "qas": [
+  "qaDirectory": [
     {
-      "name": "Example QA",
-      "email": "example@company.com",
-      "teams": [
-        "Video Policy"
-      ]
+      "name": "QA Name 1",
+      "email": "qa1@company.com",
+      "policy": "Adult"
+    },
+    {
+      "name": "QA Name 2",
+      "email": "qa2@company.com",
+      "policy": "Child Safety"
+    },
+    {
+      "name": "QA Name 3",
+      "email": "qa3@company.com",
+      "policy": "Hate Speech"
     }
   ]
 }
