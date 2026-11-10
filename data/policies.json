@@ -1,21 +1,107 @@
 {
   "policies": [
     {
-      "name": "Video Policy",
-      "alerts": [
-        "Calibration Update",
-        "Escalation Guidance"
-      ],
-      "calibrations": [
-        "October Calibration",
-        "November Calibration"
-      ],
-      "kbLinks": [
-        "Main Policy",
-        "Escalation Guidance",
-        "Examples Library"
-      ],
+      "name": "Adult",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Child Safety",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Circumvention",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Content Misinformation",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "General Misinformation",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Graphic Violence",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Harassment",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Harmful and Dangerous",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Hate Speech",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
+      "notes": []
+    },
+    {
+      "name": "Spam",
+      "alerts": [],
+      "calibrations": [],
+      "qaContacts": [],
+      "kbLink": "",
       "notes": []
     }
-  ]
+  ],
+
+  "knowledgeBase": {
+    "reviewProcess": {
+      "longVideos": [],
+      "shortVideos": [],
+      "livestreams": []
+    },
+    "ahtGuidelines": [],
+    "qualityStandards": [],
+    "escalationGuidance": [],
+    "trainingResources": []
+  },
+
+  "qaDirectory": [],
+
+  "globalNotes": [],
+
+  "settings": {
+    "theme": "dark",
+    "version": "1.0",
+    "appName": "Policy Companion",
+    "tagline": "Unified Knowledge. Smarter Operations."
+  }
 }
