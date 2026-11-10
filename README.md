@@ -1,9 +1,9 @@
 🧠 Policy Companion
 Operational Intelligence Workspace
 
-------------------------------------
-
 ¨Unified Knowledge. Smarter Operations¨
+
+-------------------------------------
 
 🎯 Vision
 
