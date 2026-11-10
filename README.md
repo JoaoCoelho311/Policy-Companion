@@ -16,6 +16,7 @@ The platform centralizes:
 All in one modern operational workspace.
 
 🚀 Core Features
+
 📚 Policy Navigation
 Flagged
 NSFW
@@ -23,28 +24,34 @@ Violence
 Hate Speech
 Harassment
 Spam
+
 📋 Calibration Repository
 Historical Calibrations
 Latest Calibrations
 Policy Guidance
+
 🚨 Alerts & Updates
 Policy Updates
 Operational Alerts
 Critical Announcements
+
 📚 Knowledge Base
 Review Process
 AHT Guidelines
 Quality Standards
 Escalation Guidance
 Training Resources
+
 👥 QA Directory
 QA Contacts
 Policy Owners
 Escalation Paths
+
 📝 Notes
 Personal Notes
 Saved References
 Knowledge Capture
+
 🌌 Final Layout Vision
 Microsoft Fabric × Microsoft Copilot × Azure Portal
 
@@ -54,6 +61,7 @@ Fast Navigation
 Centralized Knowledge
 Operational Productivity
 AI-Ready Architecture
+
 🗺️ Roadmap
 Version 1.0 - Knowledge Hub
 ✅ Policies ✅ Calibrations ✅ Alerts & Updates ✅ Knowledge Base ✅ QA Directory ✅ Notes
