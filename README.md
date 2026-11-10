@@ -58,6 +58,8 @@ Version 3.0 – Intelligence Layer
 
 Python • JSON • GitHub
 
+---------------------------------------
+
 🏆 End Goal
 
 Create a modern operational platform where reviewers can find the information they need in seconds instead of minutes.
