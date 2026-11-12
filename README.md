@@ -72,5 +72,11 @@ This project uses fictional sample data for demonstration purposes.
 
 No proprietary policies, internal documentation, confidential operational information, or company resources are included.
 
+All examples, policy references, calibrations, alerts, guidance, contacts, and knowledge base entries are placeholders created solely for educational and portfolio purposes.
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
