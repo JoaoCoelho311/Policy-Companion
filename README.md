@@ -64,6 +64,13 @@ Python • JSON • GitHub
 
 Create a modern operational platform where reviewers can find the information they need in seconds instead of minutes.
 
+-----------------------------------------
+
+## Disclaimer
+
+This project uses fictional sample data for demonstration purposes.
+
+No proprietary policies, internal documentation, confidential operational information, or company resources are included.
 
 
 
